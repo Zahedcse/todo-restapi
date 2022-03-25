@@ -3,9 +3,6 @@ import './App.css';
 import 'bulma/css/bulma.min.css';
 import { FaTimes } from "react-icons/fa";
 import {GrEdit,GrAdd ,GrUpdate } from "react-icons/gr";
-import { isEditable } from '@testing-library/user-event/dist/utils';
-
-
 
 
 function App() {
